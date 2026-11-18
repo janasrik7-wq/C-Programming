@@ -83,5 +83,18 @@ Welcome to **Day 3** of my C Programming practice journey! Today's focus is on m
 | 17 | **Number Pattern 5** | Binary (`0` and `1`) alternating number pattern. | `17_number_pattern_5.c` |
 | 18 | **Number Pattern 6** | Palindromic or symmetric number pyramid. | `18_number_pattern_6.c` |
 
+### the Maximum Element in an Array
+### Array Programs
+
+| # | Program Name | Description | File |
+| :--- | :--- | :--- | :--- |
+| 19 | **Array Traversal / Input-Output** | Reads elements into an array and prints them. | `19_array.c` |
+| 20 | **Array of Elements** | Initializes, stores, and displays elements of a 1D array. | `20_array_of_elements.c` |
+| 21 | **Maximum Element in an Array** | Iterates through an array to find and print the largest value. | `21_array_maximum.c` |
+| 22 | **Sum and Average of Elements** | Calculates the total sum and average of all array elements. | `22_average_sum_elements.c` |
+
+
+
+
 
 
