@@ -93,6 +93,13 @@ Welcome to **Day 3** of my C Programming practice journey! Today's focus is on m
 | 21 | **Maximum Element in an Array** | Iterates through an array to find and print the largest value. | `21_array_maximum.c` |
 | 22 | **Sum and Average of Elements** | Calculates the total sum and average of all array elements. | `22_average_sum_elements.c` |
 
+### Two-Dimensional Array Programs
+
+| # | Program Name | Description | File |
+| :--- | :--- | :--- | :--- |
+| 23 | **Two-Dimensional Array** | Initializes, reads, and displays elements in a 2D array (matrix). | `23_two_dimensional.c` |
+
+
 
 
 
