@@ -99,6 +99,40 @@ Welcome to **Day 3** of my C Programming practice journey! Today's focus is on m
 | :--- | :--- | :--- | :--- |
 | 23 | **Two-Dimensional Array** | Initializes, reads, and displays elements in a 2D array (matrix). | `23_two_dimensional.c` |
 
+# Day 4 - C Programming Practice
+
+This folder contains C programming exercises focusing on **Arrays**, **Strings**, and **Switch-Case** statements.
+
+##  List of Programs
+
+###  Arrays
+1. **Array of Elements** (`array of the elements`, `array`) – Basic initialization, input, and traversal of an array.
+2. **Maximum Element in an Array** (`array maximum`) – Finds the largest number in a given array.
+3. **Average of Specific Elements** (`average of array elements divisible by both 2 and 3`) – Calculates the average of array elements that are divisible by both 2 and 3 (divisible by 6).
+4. **Sum and Average of Array Elements** (`average sum of the elements`) – Computes the total sum and average of all elements in an array.
+5. **Reverse an Array** (`reverse an array`) – Reverses the order of elements in an array.
+
+###  Strings
+6. **Length of a String** (`find the length of string`, `length of string`) – Determines the total number of characters in a string.
+7. **Lowercase to Uppercase** (`lower to upper case`) – Converts lowercase characters in a string to uppercase.
+8. **Count Vowels** (`number of vowels innthe string`) – Counts the total number of vowels (`a, e, i, o, u`) present in a string.
+9. **Reading Strings with Spaces** (`reading and displaying a string space using eith scanf`) – Demonstrates how to read and display multi-word strings containing spaces using `scanf` (e.g., using scansets like `%[^\n]`).
+
+###  Conditional Statements (Switch-Case)
+10. **Display Grade** (`diplay the grade using switch case`) – Prints the corresponding grade based on marks/input using a `switch` statement.
+11. **Display Course Name** (`display the
+  
+12. ## Standalone Programs
+* **`upper to lower case`**: Converts uppercase characters in a string to lowercase.
+* **`to the count the number of wor...`**: Counts the total number of words in a given sentence or string.
+* **`the count the occurance of a gi...`**: Finds the frequency of a specific character or substring.
+* **`switch case`**: Demonstrates multi-way branching using the `switch` statement.
+* **`string without build in function`**: Performs common string operations (like length, copy, or concatenation) manually without `<string.h>`.
+* **`reverse the string without inbuil...`**: Reverses a string using loops and character swapping without built-in library functions.
+* **`reverse the string`**: Reverses a given string using standard C functions.
+* **`reverse an array`**: Reverses the elements of a 1D array in place.
+
+
 
 
 
